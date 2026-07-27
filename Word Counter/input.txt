@@ -1,0 +1,3 @@
+Python is a versatile programming language known for its simplicity and readability. Python is widely used in web
+development, data science, AI, and automation. With powerful libraries like NumPy, Pandas, and TensorFlow, Python
+simplifies complex tasks. Python's dynamic typing and interpreted nature enable rapid development and debugging.
