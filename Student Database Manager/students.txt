@@ -1,0 +1,3 @@
+38,Naman,24,Mathematics and computing,Mathematics
+45,Nambeel,25,CSE,CSE
+5,navin,25,MnC,Mathematics
