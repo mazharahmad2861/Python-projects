@@ -1,4 +1,4 @@
-FILE_NAME = "/home/chef/workspace/students.txt"
+FILE_NAME = "students.txt"
 
 
 def add_student():
